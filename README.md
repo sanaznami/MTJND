@@ -39,3 +39,18 @@ The pre-trained JND models are saved ....
 
 ### Training
 
+
+## Citation
+
+If our work is useful for your research, please cite our paper:
+
+    @inproceedings{nami2023mtjnd,
+    	title={MTJND: MULTI-TASK DEEP LEARNING FRAMEWORK FOR IMPROVED JND PREDICTION},
+	    author={Nami, Sanaz and Pakdaman, Farhad and Hashemi, Mahmoud Reza and Shirmohammadi, Shervin and Gabbouj, Moncef},
+	    booktitle={IEEE International Conference on Image Processing (ICIP)},
+	    year={2023}
+                  }
+
+## Contact
+
+If you have any question, leave a message here or contact Sanaz Nami (snami@ut.ac.ir, sanaz.nami@tuni.fi).
