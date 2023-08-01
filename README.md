@@ -10,6 +10,8 @@ The limitation of the Human Visual System (HVS) in perceiving small distortions 
 
 
 **The proposed framework**
+<p align="center">
+  <img src="https://github.com/sanaznami/MTJND/assets/59918141/83777f72-da50-4087-a720-f527d6ee23e8" alt="The proposed framework and its components. (a) overall framework. (b) shared feature backbone. (c) decision tail for visual attention modeling. (d) decision tail for JND prediction. (e) MT_3LJND. (f) MT_1LJND_VA. (g) MT_3LJND_VA">
+</p>
 
-![image](https://github.com/sanaznami/MTJND/assets/59918141/5b4446af-d6bd-46aa-82db-f8266a2fe74e)
 
