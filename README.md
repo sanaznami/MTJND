@@ -18,3 +18,12 @@ The limitation of the Human Visual System (HVS) in perceiving small distortions 
 <p align="center">The proposed framework and its components. (a) overall framework. (b) shared feature backbone. (c) decision tail for visual attention modeling. (d) decision tail for JND prediction. (e) MT_3LJND. (f) MT_1LJND_VA. (g) MT_3LJND_VA</p>
 
 
+## Requirements
+
+- Tensorflow
+- FFmpeg
+
+## Dataset
+
+Our evaluation is conducted on [MCL-JCI](https://mcl.usc.edu/mcl-jci-dataset/) and [VideoSet](https://ieee-dataport.org/documents/videoset) datasets.
+
