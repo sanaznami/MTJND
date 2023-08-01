@@ -23,7 +23,19 @@ The limitation of the Human Visual System (HVS) in perceiving small distortions 
 - Tensorflow
 - FFmpeg
 
+
 ## Dataset
 
 Our evaluation is conducted on [MCL-JCI](https://mcl.usc.edu/mcl-jci-dataset/) and [VideoSet](https://ieee-dataport.org/documents/videoset) datasets.
+
+
+## Pre-trained Models
+The pre-trained JND models are saved ....
+
+
+## Usage
+
+### Testing
+
+### Training
 
