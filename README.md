@@ -47,7 +47,7 @@ If our work is useful for your research, please cite our paper:
     @inproceedings{nami2023mtjnd,
     	title={MTJND: MULTI-TASK DEEP LEARNING FRAMEWORK FOR IMPROVED JND PREDICTION},
 	author={Nami, Sanaz and Pakdaman, Farhad and Hashemi, Mahmoud Reza and Shirmohammadi, Shervin and Gabbouj, Moncef},
-	journal={Proceedings of the IEEE International Conference on Image Processing (ICIP)},
+	booktitle={Proceedings of the IEEE International Conference on Image Processing (ICIP)},
 	year={2023}
     }
 
