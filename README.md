@@ -42,12 +42,12 @@ Our pretrained models are capable of predicting JND values, and they can also be
              - img#1
              - img#2
              - ...
-             - JND-Levels.txt (a file containing the 3 JND levels per image)
+             - JND-Levels.txt (a file containing the 3 JND levels per image: first column for the first JND, second column for the second JND, and third column for the third JND level)
          - valid/
              - img#1
              - img#2
              - ...
-             - JND-Levels.txt (a file containing the 3 JND levels per image)
+             - JND-Levels.txt (a file containing the 3 JND levels per image: first column for the first JND, second column for the second JND, and third column for the third JND level)
          - test/
              - img#1
              - img#2
