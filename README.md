@@ -38,19 +38,19 @@ Our pretrained models are capable of predicting JND values, and they can also be
 ##### Note: The dataset used for training and testing should have such a structure.
 
     - rootdir/
-    - train/
-        - img#1
-        - img#2
-        - ...
-        - JND-Levels.txt (a file containing the 3 JND levels per image)
-    - valid/
-        - img#1
-        - img#2
-        - ...
-        - JND-Levels.txt (a file containing the 3 JND levels per image)
-    - test/
-        - img#1
-        - img#2
+         - train/
+             - img#1
+             - img#2
+             - ...
+             - JND-Levels.txt (a file containing the 3 JND levels per image)
+         - valid/
+             - img#1
+             - img#2
+             - ...
+             - JND-Levels.txt (a file containing the 3 JND levels per image)
+         - test/
+             - img#1
+             - img#2
 
 
 ##### MT_3LJND
