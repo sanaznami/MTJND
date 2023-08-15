@@ -58,6 +58,7 @@ For prediction, the following commands can be used.
 
     python3 "MT_3LJND.py" test --data_dir "Path to the folder containing train, valid, and test subfolders/" --model_weights_path "Path to the model weights file for testing" --result_path "Path to save test results"
 
+For training, the following commands can be used.
 
    
 
