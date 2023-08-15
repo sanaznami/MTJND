@@ -51,6 +51,7 @@ Our pretrained models are capable of predicting JND values, and they can also be
          - test/
              - img#1
              - img#2
+             - ...
 
 
 ##### MT_3LJND
