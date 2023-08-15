@@ -37,6 +37,8 @@ Our pre-trained models can be downloaded using this .... .
 Our pretrained models are capable of predicting JND values, and they can also be employed for training on a custom dataset.
 
 ##### MT_3LJND
+For prediction, the following commands can be used.
+
    
 
 ### Testing
