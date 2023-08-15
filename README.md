@@ -39,7 +39,7 @@ Our pretrained models are capable of predicting JND values, and they can also be
 ##### MT_3LJND
 For prediction, the following commands can be used.
 
-    python3 C:/Users/kpsana/ICIP/MT_3LJND/MT_3LJND.py test --data_dir "C:/Users/kpsana/ICIP/Dataset/" --model_weights_path "C:/Users/kpsana/ICIP/MT_3LJND/MT_JND123_F3.h5" --result_path C:/Users/kpsana/ICIP/MT_3LJND/test_results.csv
+    python3 "MT_3LJND.py" test --data_dir "Path to the folder containing train, valid, and test subfolders/" --model_weights_path "Path to the model weights file for testing" --result_path "Path to save test results"
 
 
    
