@@ -30,7 +30,7 @@ Our evaluation is conducted on [VideoSet](https://ieee-dataport.org/documents/vi
 
 
 ## Pre-trained Models
-The pre-trained JND models are saved ....
+Our pre-trained models can be downloaded using this .... .
 
 
 ## Usage
