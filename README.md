@@ -62,8 +62,8 @@ For prediction with MT_3LJND or MT_3LJND_VA, the following commands can be used.
 For prediction with MT_1LJND_VA, the following commands can be used.
 
     python3 MT_1LJND_VA.py test --data_dir "Path-to-the-folder-containing-train,valid,and-test-subfolders/" --model_weights_path "Path-to-the-pretrained-model" --jnd_column int --result_path "Path-to-save-test-results/result.csv"
+    
 ##### Note: For "jnd_column", the choices are 0, 1, and 2 (0 for JND1, 1 for JND2, and 2 for JND3).
-
 
 
 ### Training
@@ -71,7 +71,11 @@ For training with MT_3LJND, the following commands can be used.
 
     python3 MT_3LJND.py train --data_dir "Path-to-the-folder-containing-train,valid,and-test-subfolders/" --checkpoint_path "Path-to-save-checkpoints/checkpoint.h5" --csv_log_path "Path-to-save-CSV-logs-during-training/log.txt" --epochs Number-of-training-epochs --batch_size Batch-size-for-training --learning_rate Learning-rate-for-optimizer
 
-   
+For training with MT_1LJND_VA, the following commands can be used.
+
+    python3 MT_1LJND_VA.py train --data_dir "Path-to-the-folder-containing-train,valid,and-test-subfolders/" --checkpoint_path "Path-to-save-checkpoints/checkpoint.h5" --csv_log_path "Path-to-save-CSV-logs-during-training/log.txt" --epochs Number-of-training-epochs --batch_size Batch-size-for-training --learning_rate Learning-rate-for-optimizer --jnd_column int(0 for JND1, 1 for JND2, and 2 for JND3)
+
+  
 ##### MT_3LJND
 ### Testing
 
