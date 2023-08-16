@@ -57,11 +57,11 @@ Our pretrained models are capable of predicting JND values, and they can also be
 ##### MT_3LJND
 For prediction, the following commands can be used.
 
-    python3 MT_3LJND.py test --data_dir "Path to the folder containing train, valid, and test subfolders/" --model_weights_path "Path to the model weights file for testing" --result_path "Path to save test results"
+    python3 MT_3LJND.py test --data_dir "Path-to-the-folder-containing-train,valid,and-test-subfolders/" --model_weights_path "Path-to-the-pretrained-model/model-name.h5" --result_path "Path-to-save-test-results/result.csv"
 
 For training, the following commands can be used.
 
-    python3 MT_3LJND.py train --data_dir "Path to the folder containing train, valid, and test subfolders/" --checkpoint_path "Path to save checkpoints" --csv_log_path "Path to save CSV logs during training" --epochs Number-of-training-epochs --batch_size Batch-size-for-training --learning_rate Learning-rate-for-optimizer
+    python3 MT_3LJND.py train --data_dir "Path-to-the-folder-containing-train,valid,and-test-subfolders/" --checkpoint_path "Path-to-save-checkpoints/checkpoint.h5" --csv_log_path "Path-to-save-CSV-logs-during-training/log.txt" --epochs Number-of-training-epochs --batch_size Batch-size-for-training --learning_rate Learning-rate-for-optimizer
 
    
 
