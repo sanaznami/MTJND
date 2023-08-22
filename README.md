@@ -75,13 +75,6 @@ For training with MT_1LJND_VA, the following commands can be used.
 
     python3 MT_1LJND_VA.py train --data_dir "Path-to-the-folder-containing-train,valid,and-test-subfolders/" --checkpoint_path "Path-to-save-checkpoints/checkpoint.h5" --csv_log_path "Path-to-save-CSV-logs-during-training/log.txt" --epochs Number-of-training-epochs --batch_size Batch-size-for-training --learning_rate Learning-rate-for-optimizer --jnd_column int(0 for JND1, 1 for JND2, and 2 for JND3)
 
-  
-##### MT_3LJND
-### Testing
-
-### Training
-
-
 ## Citation
 
 If our work is useful for your research, please cite our paper:
