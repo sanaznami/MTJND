@@ -30,7 +30,7 @@ Our evaluation is conducted on [VideoSet](https://ieee-dataport.org/documents/vi
 
 
 ## Pre-trained Models
-Our pre-trained models can be downloaded using this .... .
+Our pre-trained models can be downloaded using this [link](https://drive.google.com/drive/folders/1-iMDvGQWesuwPh0YsEnVWDprDTVbIVrV?usp=sharing).
 
 
 ## Usage
