@@ -31,7 +31,7 @@ Our evaluation is conducted on [VideoSet](https://ieee-dataport.org/documents/vi
 
 
 ## Pre-trained Models
-Our pre-trained models can be downloaded using this [link](https://drive.google.com/drive/folders/1-iMDvGQWesuwPh0YsEnVWDprDTVbIVrV?usp=sharing).
+Our pre-trained models can be downloaded using this [Link](https://zenodo.org/records/11081000/files/FALCON_ICIP2023_WP3_V1.0.zip?download=1) on [Zenodo repository](https://zenodo.org/records/11081000), or [mirror](https://drive.google.com/drive/folders/1-iMDvGQWesuwPh0YsEnVWDprDTVbIVrV?usp=sharing).
 
 
 ## Usage
