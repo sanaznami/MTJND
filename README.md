@@ -87,6 +87,10 @@ If our work is useful for your research, please cite our paper:
 	year={2023}
     }
 
+## Project information
+
+This repository is associated with the project [FALCON](https://www.tuni.fi/en/research/falcon), under Work Package 3 (WP3). This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 101022466.
+
 
 ## Contact
 
