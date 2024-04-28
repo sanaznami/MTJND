@@ -4,6 +4,7 @@
 ## Introduction
 
 This is the implementation of [MTJND: MULTI-TASK DEEP LEARNING FRAMEWORK FOR IMPROVED JND PREDICTION](https://ieeexplore.ieee.org/abstract/document/10222099) paper in Tensorflow.
+Preprint is available [here](https://trepo.tuni.fi/handle/10024/154286).
 
 **Abstract**
 
